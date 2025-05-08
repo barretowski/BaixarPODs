@@ -1,3 +1,4 @@
 .env
 arquivos
 pods_gerados
+**/__pycache__/
